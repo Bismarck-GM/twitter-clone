@@ -15,26 +15,26 @@
  */
 
 @import "bulma";
- 
+
 .navbar-brand .title {
-	color: white;
+  color: white;
 }
 
 // round images
 .image {
-	border-radius: 50%;
-	
-	img {
-			border-radius: 50%;
-	}
+  border-radius: 50%;
+
+  img {
+    border-radius: 50%;
+  }
 }
 
 .notification:not(:last-child) {
-	margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 .navbar-menu {
-	display: flex;
-	align-items: center;
-	justify-content: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
