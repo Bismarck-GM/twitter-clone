@@ -31,3 +31,9 @@
 .notification:not(:last-child) {
 	margin-bottom: 0;
 }
+
+.navbar-menu {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
