@@ -1,6 +1,6 @@
 name: Deploy to Heroku
 
-on: pull_request
+on: push
 
 jobs:
   build:
