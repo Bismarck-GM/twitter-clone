@@ -40,7 +40,7 @@ gem 'simple_form', '~> 5.0', '>= 5.0.2'
 
 group :development do
   # Access an interactive console on exception pages or by calling 'console' anywhere in the code.
-  gem 'better_errors', '~> 2.7'
+  gem 'better_errors', '~> 2.8'
   gem 'listen', '~> 3.2'
   gem 'rubocop', '~> 0.81.0'
   gem 'web-console', '>= 3.3.0'
